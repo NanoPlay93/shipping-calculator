@@ -1,0 +1,14 @@
+body {
+  background: linear-gradient(to bottom, #EDE7F6, #512DA8);
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+}
+
+.avatar {
+  width: 100px; /* o el tamaño que necesites */
+  height: 100px;
+  border-radius: 50%; /* si querés que sea redonda */
+  object-fit: cover;
+}
